@@ -1,6 +1,5 @@
 //2021-09-07
-#include <stdio.h>
-
+#include<stdio.h>
 int main() {
     printf("이름: 이재혁\n");
     printf("대학: 동국대학교\n");
